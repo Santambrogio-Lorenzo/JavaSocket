@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ServerSocket;
+package clientsocket;
 
 /**
  *
  * @author santambrogio.lorenzo
  */
-public class ServerSocket {
+public class ClientSocket {
 
     /**
      * @param args the command line arguments
